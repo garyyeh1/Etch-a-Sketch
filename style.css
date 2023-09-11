@@ -1,0 +1,36 @@
+
+ .numbers {
+    outline: 1px solid grey;    
+}
+#container{
+    border: 3px solid blue;
+
+    height: 960px;
+    width: 960px;
+
+
+    
+}
+
+
+
+.layers{
+    display: flex;
+
+
+}
+
+body{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+
+button{
+    font-size: 160px;
+}
+
+
